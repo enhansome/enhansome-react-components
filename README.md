@@ -19,7 +19,7 @@ Maintainers:
 
 ### Contributing
 
-Please review our [contributing guidelines](https://github.com/brillout/awesome-react-components/blob/master/CONTRIBUTING.md) ⭐ 48,227 | 🐛 79 | 📅 2026-01-26. We keep this list fresh by **requiring all PRs to remove one or more non-awesome entries from this list**. Please ONLY PR a new resource if you are ALSO removing one.
+Please review our [contributing guidelines](https://github.com/brillout/awesome-react-components/blob/master/CONTRIBUTING.md) ⭐ 48,236 | 🐛 81 | 📅 2026-01-26. We keep this list fresh by **requiring all PRs to remove one or more non-awesome entries from this list**. Please ONLY PR a new resource if you are ALSO removing one.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -138,13 +138,13 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Editable data grid / spreadsheet
 
-* [Handsontable](https://github.com/handsontable/handsontable) ⭐ 22,023 | 🐛 131 | 🌐 JavaScript | 📅 2026-08-19 - [demo](https://handsontable.com/demo) - [docs](https://handsontable.com/docs/react-data-grid/) - Data Grid with spreadsheet-like UI supporting React, Angular, TypeScript and JavaScript.
-* [AG Grid](https://github.com/ag-grid/ag-grid) ⭐ 15,549 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-19 - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
-* [react-data-grid](https://github.com/adazzle/react-data-grid) ⭐ 7,667 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-19 - Excel-like grid.
-* [MUI X Data grid](https://github.com/mui/mui-x) ⭐ 5,837 | 🐛 1,574 | 🌐 TypeScript | 📅 2026-08-19 - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
-* [fortune-sheet](https://github.com/ruilisi/fortune-sheet) ⭐ 3,662 | 🐛 94 | 🌐 TypeScript | 📅 2025-12-15 - An online spreedsheet component that provides out-of-the-box features just like Excel.
+* [Handsontable](https://github.com/handsontable/handsontable) ⭐ 22,023 | 🐛 119 | 🌐 JavaScript | 📅 2026-08-20 - [demo](https://handsontable.com/demo) - [docs](https://handsontable.com/docs/react-data-grid/) - Data Grid with spreadsheet-like UI supporting React, Angular, TypeScript and JavaScript.
+* [AG Grid](https://github.com/ag-grid/ag-grid) ⭐ 15,551 | 🐛 131 | 🌐 TypeScript | 📅 2026-08-20 - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
+* [react-data-grid](https://github.com/adazzle/react-data-grid) ⭐ 7,666 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-20 - Excel-like grid.
+* [MUI X Data grid](https://github.com/mui/mui-x) ⭐ 5,837 | 🐛 1,578 | 🌐 TypeScript | 📅 2026-08-20 - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
+* [fortune-sheet](https://github.com/ruilisi/fortune-sheet) ⭐ 3,663 | 🐛 94 | 🌐 TypeScript | 📅 2025-12-15 - An online spreedsheet component that provides out-of-the-box features just like Excel.
 * [revo-grid](https://github.com/revolist/revogrid) ⭐ 3,436 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-18 - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
-* [ReactGrid](https://github.com/silevis/reactgrid) ⭐ 1,656 | 🐛 56 | 🌐 TypeScript | 📅 2025-04-16 - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+* [ReactGrid](https://github.com/silevis/reactgrid) ⭐ 1,657 | 🐛 56 | 🌐 TypeScript | 📅 2025-04-16 - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 * [gigatables-react](https://github.com/GigaTables/reactables) ⭐ 152 | 🐛 13 | 🌐 JavaScript | 📅 2023-01-24 - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 * [SheetXL](https://github.com/sheetxl/sheetxl) ⭐ 31 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-27 – A high-performance spreadsheet grid. TypeScript, ESM, Node/browser, Excel-compatible functions.
 * [jqwidgets-react-grid](https://www.jqwidgets.com/react/react-grid/) - Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.
@@ -152,17 +152,17 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Table
 
-* [TanStack Table](https://github.com/tannerlinsley/react-table) ⭐ 28,348 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-18 - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
+* [TanStack Table](https://github.com/tannerlinsley/react-table) ⭐ 28,356 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-20 - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
 
 * [material-table](https://github.com/mbrn/material-table) ⭐ 3,483 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-04 - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
 
 * [mui-datatables](https://github.com/gregnb/mui-datatables) ⭐ 2,703 | 🐛 647 | 🌐 JavaScript | 📅 2024-05-13 - Built on Material UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
 
-* [react-data-table](https://github.com/jbetancur/react-data-table-component) ⭐ 2,228 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-22 - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
+* [react-data-table](https://github.com/jbetancur/react-data-table-component) ⭐ 2,228 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-19 - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
 
 * [Material-React-Table](https://github.com/KevinVandy/material-react-table) ⭐ 1,798 | 🐛 173 | 🌐 TypeScript | 📅 2026-06-05 - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 
-* [mantine-datatable](https://github.com/icflorescu/mantine-datatable) ⭐ 1,249 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-07 - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
+* [mantine-datatable](https://github.com/icflorescu/mantine-datatable) ⭐ 1,250 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-07 - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
 
 * [ka-table](https://github.com/komarovalexander/ka-table) ⭐ 851 | 🐛 22 | 🌐 TypeScript | 📅 2026-06-30 - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
@@ -170,7 +170,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 * [rsuite-table](https://github.com/rsuite/rsuite-table) ⭐ 740 | 🐛 68 | 🌐 TypeScript | 📅 2026-04-22 - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 
-* [simple-table](https://github.com/petera2c/simple-table) ⭐ 216 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19 - [demo](https://www.simple-table.com/examples) - [docs](https://www.simple-table.com/docs) - Lightweight, fast and feature rich. Sorting/filtering, virtualization, tree data, nested headers, pinned columns, customized styling etc.
+* [simple-table](https://github.com/petera2c/simple-table) ⭐ 215 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19 - [demo](https://www.simple-table.com/examples) - [docs](https://www.simple-table.com/docs) - Lightweight, fast and feature rich. Sorting/filtering, virtualization, tree data, nested headers, pinned columns, customized styling etc.
 
 * [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
 
@@ -180,9 +180,9 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Infinite Scroll
 
-* [react-window](https://github.com/bvaughn/react-window) ⭐ 17,202 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-20 - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
+* [react-window](https://github.com/bvaughn/react-window) ⭐ 17,203 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-20 - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
 * [react-lazyload](https://github.com/jasonslyvia/react-lazyload) ⭐ 5,901 | 🐛 161 | 🌐 JavaScript | 📅 2024-04-01 - Lazyload your Component, Image or anything else where the performance matters.
-* [virtua](https://github.com/inokawa/virtua) ⭐ 3,718 | 🐛 69 | 🌐 TypeScript | 📅 2026-08-19 - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
+* [virtua](https://github.com/inokawa/virtua) ⭐ 3,721 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-20 - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
 * [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) ⭐ 2,362 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-14 - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
 * [react-list](https://github.com/orgsync/react-list) ⭐ 1,971 | 🐛 73 | 🌐 JavaScript | 📅 2026-07-02 - A versatile infinite scroll React component.
 * [@af-utils/virtual](https://github.com/nowaalex/af-utils) ⭐ 81 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-18 - [demo/docs](https://af-utils.com/virtual) - Render large scrollable lists and grids.
@@ -202,9 +202,9 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
-* 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) ⭐ 13,439 | 🐛 104 | 🌐 TypeScript | 📅 2026-04-19 - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
+* 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) ⭐ 13,436 | 🐛 103 | 🌐 TypeScript | 📅 2026-04-19 - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 * [react-hot-toast](https://github.com/timolins/react-hot-toast) ⭐ 10,967 | 🐛 143 | 🌐 TypeScript | 📅 2025-08-16 - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
-* [reapop](https://github.com/LouisBarranqueiro/reapop) ⭐ 1,560 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-16 - A React & Redux notifications system.
+* [reapop](https://github.com/LouisBarranqueiro/reapop) ⭐ 1,560 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-19 - A React & Redux notifications system.
 * [react-notifications-component](https://github.com/teodosii/react-notifications-component) ⭐ 1,280 | 🐛 18 | 🌐 TypeScript | 📅 2023-08-28 - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
 * [react-local-toast](https://github.com/OlegWock/react-local-toast) ⭐ 135 | 🐛 1 | 🌐 TypeScript | 📅 2024-05-02 - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
 * [react-toast](https://github.com/moharnadreza/react-toast) ⭐ 84 | 🐛 2 | 🌐 TypeScript | 📅 2023-04-20 - [demo](https://codesandbox.io/s/byqvk) - [docs](https://github.com/moharnadreza/react-toast/blob/main/README.md) ⭐ 84 | 🐛 2 | 🌐 TypeScript | 📅 2023-04-20 - Minimal toast notifications.
@@ -214,7 +214,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Tooltip
 
-* [react-tooltip](https://github.com/wwayne/react-tooltip) ⭐ 3,823 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-15 - React tooltip component.
+* [react-tooltip](https://github.com/wwayne/react-tooltip) ⭐ 3,822 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-15 - React tooltip component.
 
 ### Menu
 
@@ -250,16 +250,16 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Captcha
 
-* [procaptcha](https://github.com/prosopo/captcha) ⭐ 298 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-19 - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
+* [procaptcha](https://github.com/prosopo/captcha) ⭐ 298 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-20 - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
 * [react-simple-captcha](https://github.com/masroorejaz/react-simple-captcha) ⭐ 49 | 🐛 1 | 🌐 JavaScript | 📅 2023-12-06 - [npm](https://www.npmjs.com/package/react-simple-captcha) - [demo](https://www.scriptse.com/blog/add-captcha-in-reactjs-application/react-simple-captcha-demo/) - React Simple Captcha is a very powerful, highly customizable and easy to use captcha for React JS.
 
 ### Carousel
 
-* [swiper](https://github.com/nolimits4web/Swiper) ⭐ 41,884 | 🐛 254 | 🌐 TypeScript | 📅 2026-08-06 - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+* [swiper](https://github.com/nolimits4web/Swiper) ⭐ 41,883 | 🐛 254 | 🌐 TypeScript | 📅 2026-08-06 - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 * [react-slick](https://github.com/akiran/react-slick) ⭐ 11,921 | 🐛 490 | 🌐 JavaScript | 📅 2025-08-07 - React carousel component.
 * [keen-slider](https://github.com/rcbyr/keen-slider) ⭐ 5,026 | 🐛 149 | 🌐 TypeScript | 📅 2026-01-22 - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
 * [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) ⭐ 2,973 | 🐛 8 | 🌐 TypeScript | 📅 2026-07-13 - [demo](https://fullpage.caferati.me/) - Fullpage, 3D animated, 60fps media and content slider/carousel.
-* [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) ⭐ 2,923 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-11 - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
+* [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) ⭐ 2,920 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-11 - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
 * [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) ⭐ 2,675 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-03 - React.js Responsive Carousel (with Swipe).
 * [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) ⭐ 1,698 | 🐛 35 | 🌐 JavaScript | 📅 2025-12-24 - Built from scratch and not highly opinionated.
 * [react-id-swiper](https://github.com/kidjp85/react-id-swiper) ⭐ 1,480 | 🐛 108 | 🌐 JavaScript | 📅 2023-05-06 - A library to use idangerous Swiper as a ReactJs component
@@ -280,7 +280,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Display data in charts / graphs / diagrams*
 
-* [recharts](https://github.com/recharts/recharts) ⭐ 27,509 | 🐛 437 | 🌐 TypeScript | 📅 2026-08-19 - Redefined chart library built with React and D3.
+* [recharts](https://github.com/recharts/recharts) ⭐ 27,510 | 🐛 438 | 🌐 TypeScript | 📅 2026-08-20 - Redefined chart library built with React and D3.
 * [victory](https://github.com/FormidableLabs/victory) ⭐ 11,241 | 🐛 91 | 🌐 TypeScript | 📅 2025-12-19 - Data viz for React.
 * [react-vis](https://github.com/uber/react-vis) ⭐ 8,784 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - Data visualization library based on React and d3.
 * [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) ⭐ 6,941 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-14 - Common react charting components using Chart.js 2.0.
@@ -366,11 +366,11 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) ⭐ 7,047 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-07 - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
 * [react-image-gallery](https://github.com/xiaolin/react-image-gallery) ⭐ 3,941 | 🐛 14 | 🌐 TypeScript | 📅 2026-05-23 - Responsive image gallery, carousel, image slider react component.
-* [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) ⭐ 1,302 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-17 - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
+* [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) ⭐ 1,302 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17 - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
 * [react-photo-album](https://github.com/igordanchenko/react-photo-album) ⭐ 782 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17 - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 * [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) ⭐ 696 | 🐛 41 | 🌐 JavaScript | 📅 2024-08-15 - A React component that adds pan and zoom features to SVG.
 * [react-particle-image](https://github.com/malerba118/react-particle-image) ⭐ 508 | 🐛 13 | 🌐 TypeScript | 📅 2023-03-01 - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
-* [react-compare-image](https://github.com/junkboy0315/react-compare-image) ⭐ 406 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-18 - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
+* [react-compare-image](https://github.com/junkboy0315/react-compare-image) ⭐ 407 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-18 - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 * [react-imgix](https://github.com/imgix/react-imgix) ⭐ 382 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-16 - Add fast, responsive images as an image, picture, or background!
 * [zoom-image](https://github.com/willnguyen1312/zoom-image) ⭐ 356 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-08 - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
 * [react-intense](https://github.com/brycedorn/react-intense) ⭐ 189 | 🐛 3 | 🌐 CSS | 📅 2023-11-27 - A React component for viewing large images up close.
@@ -381,8 +381,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Display icons / icon set / emojis*
 
-* [Lucide](https://github.com/lucide-icons/lucide) ⭐ 24,043 | 🐛 559 | 🌐 TypeScript | 📅 2026-08-19 - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-* [react-icons](https://github.com/gorangajic/react-icons) ⭐ 12,620 | 🐛 240 | 🌐 TypeScript | 📅 2026-08-12 - Svg react icons of popular icon packs using ES6 imports.
+* [Lucide](https://github.com/lucide-icons/lucide) ⭐ 24,063 | 🐛 559 | 🌐 TypeScript | 📅 2026-08-20 - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+* [react-icons](https://github.com/gorangajic/react-icons) ⭐ 12,619 | 🐛 240 | 🌐 TypeScript | 📅 2026-08-12 - Svg react icons of popular icon packs using ES6 imports.
 * [react-icomoon](https://github.com/aykutkardas/react-icomoon) ⭐ 244 | 🐛 5 | 🌐 JavaScript | 📅 2026-06-22 - With react-icomoon you can easily use the icons you have selected or created in icomoon.
 * [iconify-react](https://github.com/iconify/iconify-react) ⭐ 222 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-08 - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 * [react-open-doodles](https://github.com/lunahq/react-open-doodles) ⭐ 80 | 🐛 32 | 🌐 TypeScript | 📅 2022-12-12 - Awesome free illustrations as react components.
@@ -401,16 +401,16 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Display parsed markdow source*
 
-* [react-markdown](https://github.com/rexxars/react-markdown) ⭐ 15,857 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-21 - Render Markdown as React components.
+* [react-markdown](https://github.com/rexxars/react-markdown) ⭐ 15,856 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-21 - Render Markdown as React components.
 
 ### Canvas
 
 *Sketch input using Canvas or SVG*
 
-* [react-konva](https://github.com/konvajs/react-konva) ⭐ 6,400 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-12 - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
+* [react-konva](https://github.com/konvajs/react-konva) ⭐ 6,400 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-20 - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
 * [react-sketch](https://github.com/tbolis/react-sketch) ⭐ 707 | 🐛 77 | 🌐 JavaScript | 📅 2022-12-10 - A Sketch tool for React based applications, backed-up by FabricJS
 * [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) ⭐ 565 | 🐛 14 | 🌐 TypeScript | 📅 2026-07-27 - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
-* [react-heat-map](https://github.com/uiwjs/react-heat-map) ⭐ 279 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-28 - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+* [react-heat-map](https://github.com/uiwjs/react-heat-map) ⭐ 280 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-28 - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ### Screenshot
 
@@ -418,15 +418,15 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Miscellaneous
 
-* [puck](https://github.com/measuredco/puck) ⭐ 13,164 | 🐛 192 | 🌐 TypeScript | 📅 2026-08-19 - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
-* [react-pdf](https://github.com/wojtekmaj/react-pdf) ⭐ 11,148 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-12 - Display PDFs in your React app as easily as if they were images.
-* [react-joyride](https://github.com/gilbarbara/react-joyride) ⭐ 7,839 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-09 - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
-* [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) ⭐ 4,321 | 🐛 182 | 🌐 TypeScript | 📅 2026-05-12 - Resizable and movable component for React.
+* [puck](https://github.com/measuredco/puck) ⭐ 13,171 | 🐛 193 | 🌐 TypeScript | 📅 2026-08-20 - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
+* [react-pdf](https://github.com/wojtekmaj/react-pdf) ⭐ 11,149 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-12 - Display PDFs in your React app as easily as if they were images.
+* [react-joyride](https://github.com/gilbarbara/react-joyride) ⭐ 7,841 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-09 - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
+* [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) ⭐ 4,322 | 🐛 182 | 🌐 TypeScript | 📅 2026-05-12 - Resizable and movable component for React.
 * [typography](https://github.com/KyleAMathews/typography.js) ⭐ 3,852 | 🐛 96 | 🌐 JavaScript | 📅 2026-03-04 - A powerful toolkit for building websites with beautiful typography.
 * [react-split-pane](https://github.com/tomkp/react-split-pane) ⭐ 3,391 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-07 - React split-pane component.
 * [react-resizable-box](https://github.com/bokuweb/react-resizable-box) ⭐ 2,670 | 🐛 91 | 🌐 TypeScript | 📅 2026-05-12 - Resizable component for React. #reactjs.
 * [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) ⚠️ Archived - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
-* [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) ⭐ 2,260 | 🐛 160 | 🌐 JavaScript | 📅 2026-03-05 - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
+* [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) ⭐ 2,259 | 🐛 160 | 🌐 JavaScript | 📅 2026-03-05 - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
 * [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) ⭐ 1,754 | 🐛 132 | 🌐 JavaScript | 📅 2024-11-19 - [demo](https://github.com/anishagg17/PIzzaBuilder) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2024-04-23 - A simple chatbot component to create conversation chats.
 * [react-blur](https://github.com/javierbyte/react-blur) ⭐ 470 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-15 - React component for blurred backgrounds.
 * [react-darkreader](https://github.com/Turkyden/react-darkreader) ⭐ 279 | 🐛 8 | 🌐 TypeScript | 📅 2023-04-13 - A React Hook for adding a dark / night mode to your site inspired by darkreader.
@@ -456,11 +456,11 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Date picker / time picker / datetime picker / date range picker*
 
-* [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) ⭐ 8,736 | 🐛 114 | 🌐 JavaScript | 📅 2026-06-01 - Gcal/outlook like calendar component.
+* [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) ⭐ 8,739 | 🐛 114 | 🌐 JavaScript | 📅 2026-06-01 - Gcal/outlook like calendar component.
 * [react-datepicker](https://github.com/Hacker0x01/react-datepicker) ⭐ 8,383 | 🐛 94 | 🌐 TypeScript | 📅 2026-04-02 - A simple and reusable datepicker component for React.
-* [react-day-picker](https://github.com/gpbl/react-day-picker) ⭐ 6,844 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-16 - Flexible date picker for React.
+* [react-day-picker](https://github.com/gpbl/react-day-picker) ⭐ 6,844 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-20 - Flexible date picker for React.
 * [react-calendar](https://github.com/wojtekmaj/react-calendar) ⭐ 3,788 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-13 - Ultimate calendar for your React app.
-* [schedule-x](https://github.com/schedule-x/schedule-x) ⭐ 2,532 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14 - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
+* [schedule-x](https://github.com/schedule-x/schedule-x) ⭐ 2,533 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14 - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
 * [react-date-picker](https://github.com/wojtekmaj/react-date-picker) ⭐ 1,353 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-13 - A date picker for your React app.
 * [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) ⭐ 622 | 🐛 10 | 🌐 TypeScript | 📅 2025-07-08 - Flatpickr for React.
 * [react-timezone-select](https://github.com/ndom91/react-timezone-select) ⭐ 243 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-06 - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
@@ -554,10 +554,10 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 #### Drag and Drop
 
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) ⚠️ Archived - Beautiful and accessible drag and drop for lists with React
-* [react-dnd](https://github.com/gaearon/react-dnd) ⭐ 21,634 | 🐛 475 | 🌐 TypeScript | 📅 2025-07-06 - Drag and Drop for React.
-* [react-dropzone](https://github.com/okonet/react-dropzone) ⭐ 11,014 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17 - Simple HTML5 drag-drop zone with React.js.
+* [react-dnd](https://github.com/gaearon/react-dnd) ⭐ 21,633 | 🐛 475 | 🌐 TypeScript | 📅 2025-07-06 - Drag and Drop for React.
+* [react-dropzone](https://github.com/okonet/react-dropzone) ⭐ 11,013 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-20 - Simple HTML5 drag-drop zone with React.js.
 * [react-draggable](https://github.com/mzabriskie/react-draggable) ⭐ 9,289 | 🐛 210 | 🌐 JavaScript | 📅 2026-08-11 - React draggable component.
-* [neodrag](https://github.com/PuruVJ/neodrag) ⭐ 2,447 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-10 - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same.
+* [neodrag](https://github.com/PuruVJ/neodrag) ⭐ 2,448 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-10 - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same.
 * [react-movable](https://github.com/tajo/react-movable) ⭐ 1,674 | 🐛 10 | 🌐 TypeScript | 📅 2025-07-14 - Accessible and minimalistic (<4kB gzipped) library for vertical drag and drop in lists and tables.
 * [react-dragula](https://github.com/bevacqua/react-dragula) ⭐ 997 | 🐛 25 | 🌐 JavaScript | 📅 2020-09-09 - Drag and drop so simple it hurts.
 * [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) ⭐ 651 | 🐛 35 | 🌐 TypeScript | 📅 2026-05-06 - Sortable and resizable pane component for React.
@@ -567,19 +567,19 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Let the user define an order on a list*
 
-* [sortablejs](https://github.com/SortableJS/Sortable) ⭐ 31,167 | 🐛 524 | 🌐 JavaScript | 📅 2026-03-24 - Lists reorderable by drag-and-drop, within and among lists.
+* [sortablejs](https://github.com/SortableJS/Sortable) ⭐ 31,168 | 🐛 524 | 🌐 JavaScript | 📅 2026-03-24 - Lists reorderable by drag-and-drop, within and among lists.
 * [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) ⭐ 459 | 🐛 14 | 🌐 JavaScript | 📅 2018-03-16 - Sort any children with touch support and IE8 compatibility.
 
 #### Rich Text Editor
 
-* [tiptap](https://github.com/ueberdosis/tiptap) ⭐ 38,076 | 🐛 845 | 🌐 TypeScript | 📅 2026-08-19 - [demo](https://tiptap.dev/) - [docs](https://tiptap.dev/introduction) - The headless editor framework for web artisans.
-* [slate](https://github.com/ianstormtaylor/slate) ⭐ 31,740 | 🐛 655 | 🌐 TypeScript | 📅 2026-08-18 - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
+* [tiptap](https://github.com/ueberdosis/tiptap) ⭐ 38,094 | 🐛 843 | 🌐 TypeScript | 📅 2026-08-20 - [demo](https://tiptap.dev/) - [docs](https://tiptap.dev/introduction) - The headless editor framework for web artisans.
+* [slate](https://github.com/ianstormtaylor/slate) ⭐ 31,742 | 🐛 656 | 🌐 TypeScript | 📅 2026-08-18 - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
 * [draft-js](https://github.com/facebook/draft-js) ⚠️ Archived - A React framework for building text editors.
 * [react-quill](https://github.com/zenoamaro/react-quill) ⭐ 7,010 | 🐛 433 | 🌐 JavaScript | 📅 2025-02-22 - Quill wrapper.
 * [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,465 | 🐛 752 | 🌐 JavaScript | 📅 2024-12-01 - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
 * [react-ace](https://github.com/securingsincity/react-ace) ⭐ 4,205 | 🐛 214 | 🌐 TypeScript | 📅 2026-08-14 - Ace (Advanced Code Editor) wraper.
 * [remirror](https://github.com/remirror/remirror) ⭐ 3,034 | 🐛 208 | 🌐 TypeScript | 📅 2026-07-12 - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
-* [react-codemirror](https://github.com/uiwjs/react-codemirror) ⭐ 2,245 | 🐛 173 | 🌐 TypeScript | 📅 2026-07-08 - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
+* [react-codemirror](https://github.com/uiwjs/react-codemirror) ⭐ 2,247 | 🐛 173 | 🌐 TypeScript | 📅 2026-07-08 - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
 * [react-simple-code-editor](https://github.com/satya164/react-simple-code-editor) ⭐ 1,732 | 🐛 45 | 🌐 TypeScript | 📅 2024-07-04 - Simple no-frills code editor with syntax highlighting
 * [react-contenteditable](https://github.com/lovasoa/react-contenteditable) ⭐ 1,674 | 🐛 48 | 🌐 TypeScript | 📅 2023-03-15 - React component for a div with editable contents.
 * [alloyeditor](https://github.com/liferay/alloy-editor) ⭐ 1,407 | 🐛 96 | 🌐 JavaScript | 📅 2023-10-24 - WYSIWYG editor based on CKEditor with completely rewritten UI.
@@ -595,7 +595,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 #### Markdown Editor
 
-* [react-md-editor](https://github.com/uiwjs/react-md-editor) ⭐ 2,915 | 🐛 191 | 🌐 TypeScript | 📅 2026-05-21 - A simple markdown editor with preview, implemented with React.js and TypeScript.
+* [react-md-editor](https://github.com/uiwjs/react-md-editor) ⭐ 2,916 | 🐛 191 | 🌐 TypeScript | 📅 2026-05-21 - A simple markdown editor with preview, implemented with React.js and TypeScript.
 * [react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor) ⭐ 776 | 🐛 11 | 🌐 TypeScript | 📅 2023-10-07 - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork)](https://github.com/Ionaru/easy-markdown-editor) ⭐ 3,061 | 🐛 261 | 🌐 JavaScript | 📅 2026-08-11.
 * [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor) ⭐ 215 | 🐛 18 | 🌐 JavaScript | 📅 2018-06-26 - A markdown editor using React/Reflux.
 
@@ -603,7 +603,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Image manipulation*
 
-* [react-image-crop](https://github.com/DominicTobias/react-image-crop) ⭐ 4,104 | 🐛 73 | 🌐 TypeScript | 📅 2026-06-21 - A responsive image cropping tool for React.
+* [react-image-crop](https://github.com/DominicTobias/react-image-crop) ⭐ 4,105 | 🐛 73 | 🌐 TypeScript | 📅 2026-06-21 - A responsive image cropping tool for React.
 * [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) ⭐ 2,771 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-11 - Component to crop/rotate images/videos with easy interactions. Touch friendly.
 * [react-avatar-editor](https://github.com/mosch/react-avatar-editor) ⭐ 2,498 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-22 - Facebook-like, avatar / profile picture component.
 * [react-advanced-cropper](https://github.com/advanced-cropper/react-advanced-cropper) ⭐ 883 | 🐛 15 | 🌐 TypeScript | 📅 2026-07-25 - A react cropper library to create the cropper exactly suited for your website design.
@@ -627,7 +627,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 #### Syntax Highlight
 
-* [react-syntax-highlighter](https://github.com/conorhastings/react-syntax-highlighter) ⭐ 4,675 | 🐛 138 | 🌐 JavaScript | 📅 2026-02-26 - Syntax highlighting component with Prismjs or Highlightjs AST using inline styles.
+* [react-syntax-highlighter](https://github.com/conorhastings/react-syntax-highlighter) ⭐ 4,672 | 🐛 138 | 🌐 JavaScript | 📅 2026-02-26 - Syntax highlighting component with Prismjs or Highlightjs AST using inline styles.
 
 ## UI Layout
 
@@ -635,7 +635,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Components to layout the app's UI*
 
-* [react-grid-layout](https://github.com/STRML/react-grid-layout) ⭐ 22,382 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-07 - A draggable and resizable grid layout with responsive breakpoints, for React.
+* [react-grid-layout](https://github.com/STRML/react-grid-layout) ⭐ 22,386 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-07 - A draggable and resizable grid layout with responsive breakpoints, for React.
 * [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) ⭐ 1,584 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-06 - Auto responsive grid layout library.
 * [react-masonry-component](https://github.com/eiriklv/react-masonry-component) ⭐ 1,469 | 🐛 61 | 🌐 JavaScript | 📅 2025-03-04 - Wrapper for @desandro's Masonry.
 * [react-spaces](https://github.com/aeagle/react-spaces) ⭐ 1,314 | 🐛 23 | 🌐 TypeScript | 📅 2026-02-13 - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
@@ -654,17 +654,17 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Animate transitions*
 
-* [framer-motion](https://github.com/framer/motion) ⭐ 33,285 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-19 - An animation and gesture library.
-* [react-spring](https://github.com/react-spring/react-spring) ⭐ 29,133 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-18 - A spring physics based animation library.
-* [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,917 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05 - A spring that solves your animation problems.
-* [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) ⭐ 8,956 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-13 - A lightweight component to easily create interactive particles animations
+* [framer-motion](https://github.com/framer/motion) ⭐ 33,295 | 🐛 105 | 🌐 TypeScript | 📅 2026-08-20 - An animation and gesture library.
+* [react-spring](https://github.com/react-spring/react-spring) ⭐ 29,134 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-19 - A spring physics based animation library.
+* [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,915 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05 - A spring that solves your animation problems.
+* [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) ⭐ 8,959 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-13 - A lightweight component to easily create interactive particles animations
 * [react-flip-move](https://github.com/joshwcomeau/react-flip-move) ⭐ 4,135 | 🐛 35 | 🌐 JavaScript | 📅 2022-12-06 - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 * [react-router-transition](https://github.com/maisano/react-router-transition) ⭐ 2,578 | 🐛 28 | 🌐 JavaScript | 📅 2021-04-30 - Transitions built for react-router, powered by react-motion.
 * [react-anime](https://github.com/stelatech/react-anime) ⭐ 1,562 | 🐛 27 | 🌐 TypeScript | 📅 2023-02-27 - A super easy animation library.
 * [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) ⭐ 727 | 🐛 16 | 🌐 JavaScript | 📅 2023-07-05 - Use the full power of React and GSAP together.
 * [gooey-react](https://github.com/luukdv/gooey-react) ⭐ 676 | 🐛 0 | 🌐 TypeScript | 📅 2023-02-03 - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 * [react-particles-bg](https://github.com/lindelof/particles-bg) ⭐ 669 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02 - Particles backgrounds.
-* [data-driven-motion](https://github.com/tkh44/data-driven-motion) ⭐ 550 | 🐛 1 | 🌐 JavaScript | 📅 2017-06-08 - Easily animate your data.
+* [data-driven-motion](https://github.com/tkh44/data-driven-motion) ⭐ 551 | 🐛 1 | 🌐 JavaScript | 📅 2017-06-08 - Easily animate your data.
 * [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) ⭐ 360 | 🐛 1 | 🌐 JavaScript | 📅 2019-01-27 - Wrapper to animate the line stroke in SVGs.
 * [react-spark-scroll](https://github.com/gilbox/react-spark-scroll) ⭐ 354 | 🐛 5 | 🌐 JavaScript | 📅 2017-07-04 - Scroll-based actions and animations for react.
 * [react-track](https://github.com/gilbox/react-track) ⭐ 342 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-02 - Track the position of DOM elements. Create cool animations.
@@ -677,7 +677,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Parallax
 
-* [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) ⭐ 2,156 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-14 - [demo](https://simpleparallax.com) - The easiest way to get a parallax effect with React and JavaScript on images
+* [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) ⭐ 2,157 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-14 - [demo](https://simpleparallax.com) - The easiest way to get a parallax effect with React and JavaScript on images
 * [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) ⭐ 1,078 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-18 - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## UI Frameworks
@@ -688,25 +688,25 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Set of components + responsive layout system*
 
-* [shadcn/ui](https://github.com/shadcn-ui/ui) ⭐ 121,645 | 🐛 2,315 | 🌐 TypeScript | 📅 2026-08-19 - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps.
-* [ant-design](https://github.com/ant-design/ant-design) ⭐ 99,118 | 🐛 1,083 | 🌐 TypeScript | 📅 2026-08-19 - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
-* [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,585 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-18 - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
-* [Mantine](https://github.com/mantinedev/mantine) ⭐ 31,579 | 🐛 70 | 🌐 TypeScript | 📅 2026-08-11 - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
-* [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) ⭐ 22,611 | 🐛 235 | 🌐 TypeScript | 📅 2026-08-18 - Bootstrap components built with React.
-* [fluentui](https://github.com/microsoft/fluentui) ⭐ 20,217 | 🐛 752 | 🌐 TypeScript | 📅 2026-08-19 - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
+* [shadcn/ui](https://github.com/shadcn-ui/ui) ⭐ 121,706 | 🐛 2,300 | 🌐 TypeScript | 📅 2026-08-20 - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps.
+* [ant-design](https://github.com/ant-design/ant-design) ⭐ 99,128 | 🐛 1,083 | 🌐 TypeScript | 📅 2026-08-20 - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
+* [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,583 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-18 - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
+* [Mantine](https://github.com/mantinedev/mantine) ⭐ 31,584 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-11 - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
+* [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) ⭐ 22,611 | 🐛 235 | 🌐 TypeScript | 📅 2026-08-20 - Bootstrap components built with React.
+* [fluentui](https://github.com/microsoft/fluentui) ⭐ 20,220 | 🐛 754 | 🌐 TypeScript | 📅 2026-08-20 - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
 * [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) ⭐ 13,212 | 🐛 244 | 🌐 JavaScript | 📅 2024-11-22 - The official Semantic-UI-React integration.
-* [evergreen](https://github.com/segmentio/evergreen) ⭐ 12,424 | 🐛 81 | 🌐 JavaScript | 📅 2026-06-25 - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
-* [semi-design](https://github.com/DouyinFE/semi-design) ⭐ 10,297 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-06 - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,371 | 🐛 1,056 | 🌐 JavaScript | 📅 2026-08-19 - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
-* [reakit](https://github.com/ariakit/ariakit) ⭐ 8,597 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-19 - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
-* [grommet](https://github.com/grommet/grommet) ⭐ 8,353 | 🐛 457 | 🌐 JavaScript | 📅 2026-08-19 - The most advanced UX framework for enterprise applications.
+* [evergreen](https://github.com/segmentio/evergreen) ⭐ 12,425 | 🐛 81 | 🌐 JavaScript | 📅 2026-06-25 - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
+* [semi-design](https://github.com/DouyinFE/semi-design) ⭐ 10,301 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-06 - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,373 | 🐛 1,049 | 🌐 JavaScript | 📅 2026-08-20 - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
+* [reakit](https://github.com/ariakit/ariakit) ⭐ 8,598 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-20 - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
+* [grommet](https://github.com/grommet/grommet) ⭐ 8,351 | 🐛 456 | 🌐 JavaScript | 📅 2026-08-19 - The most advanced UX framework for enterprise applications.
 * [primereact](https://github.com/primefaces/primereact) ⚠️ Archived - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
-* [searchkit](https://github.com/searchkit/searchkit) ⭐ 4,858 | 🐛 52 | 🌐 TypeScript | 📅 2026-04-04 - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
-* [ChatUI](https://github.com/alibaba/ChatUI) ⭐ 4,443 | 🐛 53 | 🌐 TypeScript | 📅 2026-03-30 - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
-* [gestalt](https://github.com/pinterest/gestalt) ⭐ 4,367 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06 - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
-* [flowbite-react](https://github.com/themesberg/flowbite-react) ⭐ 2,149 | 🐛 191 | 🌐 TypeScript | 📅 2026-06-27 - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
-* [kokonut-ui](https://github.com/kokonut-labs/kokonutui) ⭐ 2,035 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - Free Modern and Customizable UI components.
-* [untitled-ui-react](https://github.com/untitleduico/react) ⭐ 1,873 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-04 - [demo](https://www.untitledui.com/react/) - Beautifully crafted collection of components built with React Aria and Tailwind CSS.
+* [searchkit](https://github.com/searchkit/searchkit) ⭐ 4,856 | 🐛 52 | 🌐 TypeScript | 📅 2026-04-04 - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
+* [ChatUI](https://github.com/alibaba/ChatUI) ⭐ 4,442 | 🐛 53 | 🌐 TypeScript | 📅 2026-03-30 - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
+* [gestalt](https://github.com/pinterest/gestalt) ⭐ 4,368 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06 - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
+* [flowbite-react](https://github.com/themesberg/flowbite-react) ⭐ 2,147 | 🐛 191 | 🌐 TypeScript | 📅 2026-06-27 - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+* [kokonut-ui](https://github.com/kokonut-labs/kokonutui) ⭐ 2,036 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 - Free Modern and Customizable UI components.
+* [untitled-ui-react](https://github.com/untitleduico/react) ⭐ 1,874 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-04 - [demo](https://www.untitledui.com/react/) - Beautifully crafted collection of components built with React Aria and Tailwind CSS.
 * [orbit](https://github.com/kiwicom/orbit) ⭐ 1,439 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-06 - Components for building travel oriented projects.
 * [shineout](https://github.com/sheinsight/shineout) ⭐ 940 | 🐛 56 | 🌐 TypeScript | 📅 2026-07-15 - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 * [CoreUI for React](https://github.com/coreui/coreui-react) ⭐ 714 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 - [demo/docs](https://coreui.io/react) - Open Source UI components library.
@@ -719,14 +719,14 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 #### Material Design
 
-* 🚀 [Material UI](https://github.com/mui/material-ui) ⭐ 98,866 | 🐛 1,486 | 🌐 JavaScript | 📅 2026-08-19 - Full suite of components. Build your own design system, or start with Material Design.
+* 🚀 [Material UI](https://github.com/mui/material-ui) ⭐ 98,875 | 🐛 1,488 | 🌐 JavaScript | 📅 2026-08-20 - Full suite of components. Build your own design system, or start with Material Design.
   * [Autocomplete](https://mui.com/material-ui/react-autocomplete/) - Accessible autocomplete, combobox, multiselect
   * [Material Icons](https://mui.com/material-ui/material-icons/) - 1,000+ SVG material icons.
   * [Modal](https://mui.com/material-ui/react-modal/) - Accessible modal dialog component.
   * [Slider](https://mui.com/material-ui/react-slider/) - Accessible slider component.
   * [Table](https://mui.com/material-ui/react-table/) - table with sorting, selecting, pagination, virtualized.
   * [Tree View](https://mui.com/material-ui/react-tree-view/) - Accessible tree view component for React.
-* [react-toolbox](https://github.com/react-toolbox/react-toolbox) ⭐ 8,619 | 🐛 281 | 🌐 JavaScript | 📅 2021-12-28 - A set of React components implementing Google's Material Design.
+* [react-toolbox](https://github.com/react-toolbox/react-toolbox) ⭐ 8,617 | 🐛 281 | 🌐 JavaScript | 📅 2021-12-28 - A set of React components implementing Google's Material Design.
 * [mdbootstrap](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) ⭐ 1,417 | 🐛 6 | 🌐 TypeScript | 📅 2025-12-08 - React Bootstrap with Material Design
 * [react-materialize](https://github.com/react-materialize/react-materialize) ⭐ 1,370 | 🐛 54 | 🌐 JavaScript | 📅 2023-01-27 - Material design for react, powered by materializecss.
 * [react-essence](https://github.com/Evo-Forge/Essence) ⭐ 412 | 🐛 18 | 🌐 JavaScript | 📅 2018-03-19 - Essence - The Essential Material Design Framework.
@@ -739,10 +739,10 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Component Collections
 
-* [refine](https://github.com/pankod/refine) ⭐ 35,533 | 🐛 82 | 🌐 TypeScript | 📅 2026-06-05 - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
-* [react-admin](https://github.com/marmelab/react-admin) ⭐ 26,898 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-09 - Build admin user experiences on top of REST and GraphQL services.
-* [blueprint](https://github.com/palantir/blueprint) ⭐ 22,002 | 🐛 966 | 🌐 TypeScript | 📅 2026-08-19 - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-* [rsuite](https://github.com/rsuite/rsuite) ⭐ 8,697 | 🐛 320 | 🌐 TypeScript | 📅 2026-08-09 - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
+* [refine](https://github.com/pankod/refine) ⭐ 35,545 | 🐛 82 | 🌐 TypeScript | 📅 2026-06-05 - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
+* [react-admin](https://github.com/marmelab/react-admin) ⭐ 26,903 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-09 - Build admin user experiences on top of REST and GraphQL services.
+* [blueprint](https://github.com/palantir/blueprint) ⭐ 22,002 | 🐛 967 | 🌐 TypeScript | 📅 2026-08-20 - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
+* [rsuite](https://github.com/rsuite/rsuite) ⭐ 8,697 | 🐛 322 | 🌐 TypeScript | 📅 2026-08-20 - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
 * [aframe-react](https://github.com/ngokevin/aframe-react) ⭐ 1,432 | 🐛 42 | 🌐 JavaScript | 📅 2024-06-19 - Build virtual reality experiences with A-Frame and React.
 * [shards-react](https://github.com/DesignRevision/shards-react) ⭐ 762 | 🐛 49 | 🌐 JavaScript | 📅 2023-01-03 - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 * [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) ⭐ 254 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-26 - [docs](https://tailwind-admin.com/components) - A collection of Ready-made ShadCN UI components you can directly plug into your React/Next.js projects.
@@ -796,7 +796,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 #### Touch Swipe
 
-* [react-swipe](https://github.com/voronianski/react-swipe) ⭐ 1,650 | 🐛 14 | 🌐 JavaScript | 📅 2022-03-22 - Swipe.js as a React component.
+* [react-swipe](https://github.com/voronianski/react-swipe) ⭐ 1,651 | 🐛 14 | 🌐 JavaScript | 📅 2022-03-22 - Swipe.js as a React component.
 
 #### Mouse Events
 
@@ -832,16 +832,16 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Data flow / data management / data stores / components state / data flow*
 
-* [redux](https://github.com/reactjs/redux) ⭐ 61,508 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-02 - Predictable state container for JavaScript apps.
-* [zustand](https://zustand.surge.sh/) - [docs](https://github.com/pmndrs/zustand) ⭐ 58,584 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-19 - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
-* [react-redux](https://github.com/reactjs/react-redux) ⭐ 23,449 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-17 - Official React bindings for Redux.
-* [RxDB](https://rxdb.info/) - [demo](https://github.com/pubkey/rxdb/tree/master/examples/react) ⭐ 23,354 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-19 - [docs](https://rxdb.info/quickstart.html) A fast, local first, reactive Database for JavaScript Applications
-* [reselect](https://github.com/reactjs/reselect) ⭐ 19,020 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-16 - Selector library for Redux.
+* [redux](https://github.com/reactjs/redux) ⭐ 61,507 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-20 - Predictable state container for JavaScript apps.
+* [zustand](https://zustand.surge.sh/) - [docs](https://github.com/pmndrs/zustand) ⭐ 58,589 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-19 - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
+* [react-redux](https://github.com/reactjs/react-redux) ⭐ 23,450 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-17 - Official React bindings for Redux.
+* [RxDB](https://rxdb.info/) - [demo](https://github.com/pubkey/rxdb/tree/master/examples/react) ⭐ 23,355 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-20 - [docs](https://rxdb.info/quickstart.html) A fast, local first, reactive Database for JavaScript Applications
+* [reselect](https://github.com/reactjs/reselect) ⭐ 19,019 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-16 - Selector library for Redux.
 * [effector-react](https://github.com/effector/effector) ⭐ 4,846 | 🐛 158 | 🌐 TypeScript | 📅 2026-07-25 - React bindings for effector, an effective multi-store state manager.
 * [cerebral](https://github.com/cerebral/cerebral) ⭐ 1,996 | 🐛 7 | 🌐 JavaScript | 📅 2026-03-20 - A state controller with its own debugger.
 * [kea](https://github.com/mariusandra/kea) ⭐ 1,993 | 🐛 8 | 🌐 JavaScript | 📅 2026-07-15 - High level architecture for React apps.
 * [fluxible](https://github.com/yahoo/fluxible) ⚠️ Archived - A pluggable container for universal flux applications.
-* [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) ⭐ 1,037 | 🐛 11 | 🌐 JavaScript | 📅 2024-03-27 - Reducer + action to reduce actions under a single subscriber notification.
+* [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) ⭐ 1,036 | 🐛 11 | 🌐 JavaScript | 📅 2024-03-27 - Reducer + action to reduce actions under a single subscriber notification.
 * [fireproof](https://github.com/fireproof-storage/fireproof) ⭐ 972 | 🐛 119 | 🌐 TypeScript | 📅 2026-05-07 - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
 * [teaful](https://github.com/teafuljs/teaful) ⭐ 712 | 🐛 18 | 🌐 TypeScript | 📅 2026-04-09 - Tiny, easy and powerful React state management
 * [react-i13n](https://github.com/yahoo/react-i13n) ⭐ 383 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-16 - A performant, scalable and pluggable approach to instrumenting your React application.
@@ -851,12 +851,12 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Form Logic
 
-* [react-hook-form](https://github.com/react-hook-form/react-hook-form) ⭐ 44,821 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-18 - React hooks for form validation without the hassle.
-* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,323 | 🐛 839 | 🌐 TypeScript | 📅 2025-11-10 - Build forms without tears and supports Validation in ease.
-* [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) ⭐ 15,870 | 🐛 150 | 🌐 TypeScript | 📅 2026-08-19 - A React component for building Web forms from JSONSchema.
-* [Formily](https://github.com/alibaba/formily) ⭐ 12,562 | 🐛 140 | 🌐 TypeScript | 📅 2025-06-21 - High performance, extensible, and Typescript friendly
+* [react-hook-form](https://github.com/react-hook-form/react-hook-form) ⭐ 44,825 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-20 - React hooks for form validation without the hassle.
+* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,325 | 🐛 839 | 🌐 TypeScript | 📅 2025-11-10 - Build forms without tears and supports Validation in ease.
+* [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) ⭐ 15,871 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-20 - A React component for building Web forms from JSONSchema.
+* [Formily](https://github.com/alibaba/formily) ⭐ 12,563 | 🐛 140 | 🌐 TypeScript | 📅 2025-06-21 - High performance, extensible, and Typescript friendly
 * [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,439 | 🐛 377 | 🌐 JavaScript | 📅 2026-05-30 - Subscription-based form state management
-* [surveyjs](https://github.com/surveyjs/survey-library) ⭐ 4,845 | 🐛 490 | 🌐 TypeScript | 📅 2026-08-19 - The advanced Survey and Form library
+* [surveyjs](https://github.com/surveyjs/survey-library) ⭐ 4,846 | 🐛 491 | 🌐 TypeScript | 📅 2026-08-20 - The advanced Survey and Form library
 * [formsy-react](https://github.com/formsy/formsy-react/) ⭐ 762 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-02 - A form input builder and validator for React JS.
 * [data-driven-forms](https://github.com/data-driven-forms/react-forms) ⭐ 324 | 🐛 46 | 🌐 JavaScript | 📅 2026-08-12 - A declarative way for building forms with all the functionality.
 * [react-formawesome](https://github.com/MAKARD/react-formawesome) ⭐ 7 | 🐛 5 | 🌐 TypeScript | 📅 2023-04-29 - Complex library for creating awesome forms.
@@ -866,8 +866,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Router
 
-* [react-router](https://github.com/reactjs/react-router) ⭐ 56,557 | 🐛 164 | 🌐 TypeScript | 📅 2026-08-19 - A complete routing library for React.
-* [tanstack-router](https://github.com/TanStack/router) ⭐ 14,964 | 🐛 567 | 🌐 TypeScript | 📅 2026-08-19 - Type-safe router with built-in caching & URL state management
+* [react-router](https://github.com/reactjs/react-router) ⭐ 56,561 | 🐛 164 | 🌐 TypeScript | 📅 2026-08-20 - A complete routing library for React.
+* [tanstack-router](https://github.com/TanStack/router) ⭐ 14,969 | 🐛 569 | 🌐 TypeScript | 📅 2026-08-20 - Type-safe router with built-in caching & URL state management
 * [wouter](https://github.com/molefrog/wouter) ⭐ 7,865 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-10 - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
 * [universal-router](https://github.com/kriasoft/universal-router) ⭐ 1,784 | 🐛 36 | 🌐 TypeScript | 📅 2026-01-20 - A simple middleware-style router for isomorphic JavaScript web apps.
 * [react-router-component](https://github.com/STRML/react-router-component) ⭐ 868 | 🐛 41 | 🌐 JavaScript | 📅 2026-04-09 - Declarative router component for React.
@@ -884,13 +884,13 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Communication with server
 
-* [query](https://github.com/TanStack/query) ⭐ 50,164 | 🐛 175 | 🌐 TypeScript | 📅 2026-08-19 - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
-* [apollo-client](https://github.com/apollostack/apollo-client) ⭐ 19,808 | 🐛 402 | 🌐 TypeScript | 📅 2026-08-19 - A simple caching client for any GraphQL server and UI framework.
-* [react-relay](https://github.com/facebook/relay) ⭐ 18,955 | 🐛 871 | 🌐 Rust | 📅 2026-08-19 - Relay is a JavaScript framework for building data-driven React applications.
+* [query](https://github.com/TanStack/query) ⭐ 50,172 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-20 - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+* [apollo-client](https://github.com/apollostack/apollo-client) ⭐ 19,809 | 🐛 402 | 🌐 TypeScript | 📅 2026-08-19 - A simple caching client for any GraphQL server and UI framework.
+* [react-relay](https://github.com/facebook/relay) ⭐ 18,955 | 🐛 871 | 🌐 Rust | 📅 2026-08-20 - Relay is a JavaScript framework for building data-driven React applications.
 
 ### CSS / Style
 
-* [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,121 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-17 - Visual primitives for the component age.
+* [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,122 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-17 - Visual primitives for the component age.
 * [stitches](https://github.com/stitchesjs/stitches) ⚠️ Archived - CSS-in-JS with near-zero runtime, SSR, multi-variant support.
 * [react-responsive](https://github.com/contra/react-responsive) ⭐ 7,172 | 🐛 5 | 🌐 TypeScript | 📅 2025-03-01 - Media queries in react for responsive design.
 * [aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,339 | 🐛 91 | 🌐 JavaScript | 📅 2025-07-24 - It's inline styles, but they work!.
@@ -916,12 +916,12 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Scaffold / starter kit / Yeoman generator / stack ensemble / seed*
 
-* [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,288 | 🐛 2,410 | 🌐 JavaScript | 📅 2025-02-15 - Create React apps with no build configuration.
-* [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,249 | 🐛 191 | 🌐 TypeScript | 📅 2026-04-29 - Live editing development on desktop app.
+* [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,288 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 - Create React apps with no build configuration.
+* [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,246 | 🐛 191 | 🌐 TypeScript | 📅 2026-04-29 - Live editing development on desktop app.
 * [nwb](https://github.com/insin/nwb) ⚠️ Archived - CLI tool and devDependency for React apps & components and npm modules.
 * [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) ⭐ 3,889 | 🐛 14 | 🌐 JavaScript | 📅 2020-08-21 - Minimal live-editing boilerplate for your next ReactJS project.
 * [generator-starhackit](https://github.com/FredericHeem/starhackit) ⭐ 1,271 | 🐛 12 | 🌐 JavaScript | 📅 2023-12-16 - Full-stack starter kit.
-* [rockpack](https://github.com/AlexSergey/rockpack) ⭐ 1,175 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29 - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
+* [rockpack](https://github.com/AlexSergey/rockpack) ⭐ 1,171 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29 - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
 * [extensive-react-boilerplate](https://github.com/brocoders/extensive-react-boilerplate) ⭐ 510 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-18 - Boilerplate with Next.js, Auth (Sign in, Sign up, Reset password, Confirm email, Refresh Token), Material UI, React Hook Form, I18N, File uploads (support local and Amazon S3 drivers), Tests, CI.
 * [elegant](https://github.com/elegantframework/elegant-cli) ⭐ 223 | 🐛 24 | 🌐 TypeScript | 📅 2025-02-17 - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
 * [crisp-react](https://github.com/winwiz1/crisp-react) ⭐ 190 | 🐛 16 | 🌐 TypeScript | 📅 2023-03-14 - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
@@ -948,7 +948,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 **[`Back to top ⬆️`](#table-of-contents)**
 
-* [qrcode.react](https://github.com/zpao/qrcode.react) ⭐ 4,281 | 🐛 37 | 🌐 TypeScript | 📅 2026-07-17 - A \<QRCode/> component for use with React.
+* [qrcode.react](https://github.com/zpao/qrcode.react) ⭐ 4,282 | 🐛 37 | 🌐 TypeScript | 📅 2026-07-17 - A \<QRCode/> component for use with React.
 * [react-media](https://github.com/ReactTraining/react-media) ⭐ 2,422 | 🐛 8 | 🌐 JavaScript | 📅 2020-07-15 - A CSS media query component for React.
 * [`<qr-code>`](https://github.com/bitjson/qr-code) ⭐ 1,380 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-28 – A no-dependencies, customizable, animate-able, SVG-based `<qr-code>` element.
 * [react-children-utilities](https://github.com/fernandopasik/react-children-utilities) ⭐ 383 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-10 - Extended utils for React.Children.
@@ -959,8 +959,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 *Internationalization / L10n / localization / translation*
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-18 - Internationalize React apps.
-* [react-i18next](https://github.com/i18next/react-i18next) ⭐ 10,035 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08 - Internationalization for react done right. Using the i18next i18n ecosystem.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,740 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-20 - Internationalize React apps.
+* [react-i18next](https://github.com/i18next/react-i18next) ⭐ 10,035 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-20 - Internationalization for react done right. Using the i18next i18n ecosystem.
 * [js-lingui](https://github.com/lingui/js-lingui) ⭐ 5,850 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-14 - [docs](https://lingui.js.org) – A readable, automated, and optimized (5 kb) internationalization for JavaScript.
 * [react-intl-universal](https://github.com/alibaba/react-intl-universal) ⭐ 1,355 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-17 - [demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html) Internationalize React apps. Not only for React.Component but also for Vanilla JS.
 * [@tolgee/react](https://github.com/tolgee/tolgee-js/tree/main/packages/react) ⭐ 260 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-19 - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
@@ -969,9 +969,9 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Framework bindings / integrations
 
-* [react-on-rails](https://github.com/shakacode/react_on_rails) ⭐ 5,191 | 🐛 132 | 🌐 Ruby | 📅 2026-08-19 - Integration of React + Webpack + Rails to build Universal (Isomorphic) Apps.
-* [reactfire](https://github.com/firebase/reactfire) ⭐ 3,571 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-17 - ReactJS mixin for easy Firebase integration.
-* [react-unity-webgl](https://github.com/elraccoone/react-unity-webgl) ⭐ 1,887 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-08 - Unity intergration with two-way communication using a built-in Event System.
+* [react-on-rails](https://github.com/shakacode/react_on_rails) ⭐ 5,191 | 🐛 130 | 🌐 Ruby | 📅 2026-08-20 - Integration of React + Webpack + Rails to build Universal (Isomorphic) Apps.
+* [reactfire](https://github.com/firebase/reactfire) ⭐ 3,571 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-19 - ReactJS mixin for easy Firebase integration.
+* [react-unity-webgl](https://github.com/elraccoone/react-unity-webgl) ⭐ 1,886 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-08 - Unity intergration with two-way communication using a built-in Event System.
 * [react-d3-library](https://github.com/react-d3-library/react-d3-library) ⭐ 1,535 | 🐛 22 | 🌐 JavaScript | 📅 2021-03-04 - Open source library for using D3 in React.
 * [react-three-renderer](https://github.com/toxicFork/react-three-renderer) ⚠️ Archived - Render into a three.js canvas using React.
 * [backbone-react-component](https://github.com/magalhas/backbone-react-component) ⭐ 807 | 🐛 10 | 🌐 JavaScript | 📅 2024-09-02 - A bit of nifty glue that automatically plugs your Backbone models.
@@ -1035,17 +1035,17 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Test
 
-* [playwright](https://github.com/microsoft/playwright) ⭐ 94,741 | 🐛 164 | 🌐 TypeScript | 📅 2026-08-19 enables reliable end-to-end testing for modern web apps.
-* [jest-cli](https://github.com/facebook/jest) ⭐ 45,469 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-19 - Painless JavaScript Testing.
-* [enzyme](https://github.com/airbnb/enzyme) ⭐ 19,824 | 🐛 282 | 🌐 JavaScript | 📅 2025-10-22 - JavaScript Testing utilities for React.
+* [playwright](https://github.com/microsoft/playwright) ⭐ 94,807 | 🐛 160 | 🌐 TypeScript | 📅 2026-08-20 enables reliable end-to-end testing for modern web apps.
+* [jest-cli](https://github.com/facebook/jest) ⭐ 45,469 | 🐛 184 | 🌐 TypeScript | 📅 2026-08-20 - Painless JavaScript Testing.
+* [enzyme](https://github.com/airbnb/enzyme) ⭐ 19,823 | 🐛 282 | 🌐 JavaScript | 📅 2025-10-22 - JavaScript Testing utilities for React.
 * [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) ⭐ 491 | 🐛 2 | 🌐 JavaScript | 📅 2016-10-11 - A redux middleware to automatically generate tests for reducers through ui interaction.
-* [react-unit](https://github.com/pzavolinsky/react-unit) ⭐ 194 | 🐛 3 | 🌐 JavaScript | 📅 2018-02-19 - Lightweight unit test library for ReactJS.
+* [react-unit](https://github.com/pzavolinsky/react-unit) ⭐ 193 | 🐛 3 | 🌐 JavaScript | 📅 2018-02-19 - Lightweight unit test library for ReactJS.
 * [unexpected-react](https://github.com/bruderstein/unexpected-react) ⭐ 184 | 🐛 23 | 🌐 JavaScript | 📅 2021-03-23 - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 * [rut](https://github.com/milesj/rut) ⚠️ Archived - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 
 ### Redux
 
-* [redux-devtools](https://github.com/gaearon/redux-devtools) ⭐ 14,364 | 🐛 232 | 🌐 TypeScript | 📅 2026-08-19 - DevTools for Redux with hot reloading, action replay, and customizable UI.
+* [redux-devtools](https://github.com/gaearon/redux-devtools) ⭐ 14,364 | 🐛 232 | 🌐 TypeScript | 📅 2026-08-20 - DevTools for Redux with hot reloading, action replay, and customizable UI.
 * [remote-redux-devtools](https://github.com/zalmoxisus/remote-redux-devtools) ⭐ 1,798 | 🐛 63 | 🌐 JavaScript | 📅 2023-04-25 - Redux DevTools remotely.
 * [redux-devtools-dock-monitor](https://github.com/gaearon/redux-devtools-dock-monitor) ⭐ 405 | 🐛 5 | 🌐 JavaScript | 📅 2020-06-24 - A resizable and movable dock for Redux DevTools monitors.
 * [redux-devtools-log-monitor](https://github.com/gaearon/redux-devtools-log-monitor) ⭐ 308 | 🐛 8 | 🌐 JavaScript | 📅 2017-11-11 - The default monitor for Redux DevTools with a tree view.
@@ -1062,8 +1062,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Miscellaneous
 
-* [standard-react](https://github.com/feross/standard) ⭐ 29,427 | 🐛 130 | 🌐 JavaScript | 📅 2025-07-11 - JavaScript Standard Style Guide.
-* [react-styleguidist](https://github.com/sapegin/react-styleguidist) ⭐ 11,070 | 🐛 246 | 🌐 TypeScript | 📅 2025-01-07 - React style guide generator.
+* [standard-react](https://github.com/feross/standard) ⭐ 29,427 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11 - JavaScript Standard Style Guide.
+* [react-styleguidist](https://github.com/sapegin/react-styleguidist) ⭐ 11,069 | 🐛 245 | 🌐 TypeScript | 📅 2025-01-07 - React style guide generator.
 * [cosmos-js](https://github.com/skidding/cosmos) ⭐ 8,687 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-17 - DX tool for designing truly encapsulated React components.
 * [react-device-frameset](https://github.com/zheeeng/react-device-frameset) ⭐ 110 | 🐛 4 | 🌐 TypeScript | 📅 2024-04-04 - React device frameset component.
 * [component-controls](https://github.com/ccontrols/component-controls) ⭐ 82 | 🐛 16 | 🌐 TypeScript | 📅 2022-12-15 - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
@@ -1086,7 +1086,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Static Website Generator
 
-* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 422 | 🌐 JavaScript | 📅 2026-08-19 - Transform plain text into dynamic blogs and websites using React.js.
+* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 | 🐛 421 | 🌐 JavaScript | 📅 2026-08-20 - Transform plain text into dynamic blogs and websites using React.js.
 
 ## Cloud Solutions
 
@@ -1100,4 +1100,4 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
