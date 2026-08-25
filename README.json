@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1790564,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T17:05:46Z",
+                "last_commit": "2026-08-25T14:22:23Z",
                 "owner": "handsontable",
                 "repo": "handsontable",
-                "stars": 22028
+                "stars": 22027
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 28407613,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T16:17:23Z",
+                "last_commit": "2026-08-25T15:20:54Z",
                 "owner": "ag-grid",
                 "repo": "ag-grid",
-                "stars": 15562
+                "stars": 15561
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 260240241,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T23:14:31Z",
+                "last_commit": "2026-08-25T13:52:51Z",
                 "owner": "mui",
                 "repo": "mui-x",
-                "stars": 5838
+                "stars": 5837
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-12-15T13:04:23Z",
                 "owner": "ruilisi",
                 "repo": "fortune-sheet",
-                "stars": 3703
+                "stars": 3706
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-24T16:52:05Z",
                 "owner": "revolist",
                 "repo": "revogrid",
-                "stars": 3437
+                "stars": 3438
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2025-04-16T15:01:27Z",
                 "owner": "silevis",
                 "repo": "reactgrid",
-                "stars": 1656
+                "stars": 1658
               }
             },
             {
@@ -156,10 +156,10 @@
                 "archived": false,
                 "id": 71487058,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T02:18:18Z",
+                "last_commit": "2026-08-25T12:38:49Z",
                 "owner": "TanStack",
                 "repo": "table",
-                "stars": 28376
+                "stars": 28378
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-24T12:53:12Z",
                 "owner": "petera2c",
                 "repo": "simple-table",
-                "stars": 216
+                "stars": 218
               }
             }
           ],
@@ -343,10 +343,10 @@
                 "archived": false,
                 "id": 549650165,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T01:53:38Z",
+                "last_commit": "2026-08-25T12:10:22Z",
                 "owner": "inokawa",
                 "repo": "virtua",
-                "stars": 3725
+                "stars": 3726
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2026-05-13T07:44:40Z",
                 "owner": "sweetalert2",
                 "repo": "sweetalert2-react-content",
-                "stars": 729
+                "stars": 728
               }
             },
             {
@@ -510,7 +510,7 @@
                 "last_commit": "2026-04-19T21:08:58Z",
                 "owner": "fkhadra",
                 "repo": "react-toastify",
-                "stars": 13436
+                "stars": 13435
               }
             },
             {
@@ -760,7 +760,7 @@
                 "archived": false,
                 "id": 21871245,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T07:52:41Z",
+                "last_commit": "2026-08-25T12:45:08Z",
                 "owner": "reactjs",
                 "repo": "react-tabs",
                 "stars": 3150
@@ -879,7 +879,7 @@
                 "archived": false,
                 "id": 632962207,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:23:05Z",
+                "last_commit": "2026-08-25T14:55:46Z",
                 "owner": "prosopo",
                 "repo": "captcha",
                 "stars": 298
@@ -919,7 +919,7 @@
                 "last_commit": "2026-08-06T16:44:44Z",
                 "owner": "nolimits4web",
                 "repo": "swiper",
-                "stars": 41892
+                "stars": 41893
               }
             },
             {
@@ -949,7 +949,7 @@
                 "last_commit": "2026-01-22T00:15:07Z",
                 "owner": "rcbyr",
                 "repo": "keen-slider",
-                "stars": 5026
+                "stars": 5025
               }
             },
             {
@@ -1132,10 +1132,10 @@
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:59:51Z",
+                "last_commit": "2026-08-25T14:25:52Z",
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27516
+                "stars": 27518
               }
             },
             {
@@ -1195,7 +1195,7 @@
                 "last_commit": "2026-01-21T04:24:52Z",
                 "owner": "hustcc",
                 "repo": "echarts-for-react",
-                "stars": 5003
+                "stars": 5004
               }
             },
             {
@@ -1427,7 +1427,7 @@
                 "last_commit": "2026-08-10T16:00:36Z",
                 "owner": "timc1",
                 "repo": "kbar",
-                "stars": 5247
+                "stars": 5246
               }
             }
           ],
@@ -1762,7 +1762,7 @@
                 "last_commit": "2025-12-31T13:03:00Z",
                 "owner": "PaulLeCam",
                 "repo": "react-leaflet",
-                "stars": 5596
+                "stars": 5597
               }
             },
             {
@@ -1874,7 +1874,7 @@
                 "last_commit": "2026-08-14T14:12:18Z",
                 "owner": "Telsho",
                 "repo": "react-google-flight-datepicker",
-                "stars": 395
+                "stars": 394
               }
             }
           ],
@@ -1896,7 +1896,7 @@
                 "last_commit": "2026-08-07T09:02:04Z",
                 "owner": "sachinchoolur",
                 "repo": "lightGallery",
-                "stars": 7050
+                "stars": 7049
               }
             },
             {
@@ -2080,10 +2080,10 @@
                 "archived": false,
                 "id": 270722949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:28:37Z",
+                "last_commit": "2026-08-25T14:23:12Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24150
+                "stars": 24158
               }
             },
             {
@@ -2098,7 +2098,7 @@
                 "last_commit": "2026-08-12T09:38:49Z",
                 "owner": "react-icons",
                 "repo": "react-icons",
-                "stars": 12621
+                "stars": 12619
               }
             },
             {
@@ -2232,7 +2232,7 @@
                 "last_commit": "2025-04-21T10:10:50Z",
                 "owner": "remarkjs",
                 "repo": "react-markdown",
-                "stars": 15863
+                "stars": 15865
               }
             }
           ],
@@ -2321,7 +2321,7 @@
                 "last_commit": "2024-07-18T07:26:56Z",
                 "owner": "niklasvh",
                 "repo": "html2canvas",
-                "stars": 31921
+                "stars": 31922
               }
             }
           ],
@@ -2343,7 +2343,7 @@
                 "last_commit": "2026-08-21T12:50:33Z",
                 "owner": "puckeditor",
                 "repo": "puck",
-                "stars": 13193
+                "stars": 13196
               }
             },
             {
@@ -2373,7 +2373,7 @@
                 "last_commit": "2026-07-09T16:02:12Z",
                 "owner": "gilbarbara",
                 "repo": "react-joyride",
-                "stars": 7845
+                "stars": 7847
               }
             },
             {
@@ -2418,7 +2418,7 @@
                 "last_commit": "2026-04-07T04:25:34Z",
                 "owner": "tomkp",
                 "repo": "react-split-pane",
-                "stars": 3393
+                "stars": 3392
               }
             },
             {
@@ -2433,7 +2433,7 @@
                 "last_commit": "2026-05-12T17:34:48Z",
                 "owner": "bokuweb",
                 "repo": "re-resizable",
-                "stars": 2669
+                "stars": 2668
               }
             },
             {
@@ -2463,7 +2463,7 @@
                 "last_commit": "2026-03-05T05:23:43Z",
                 "owner": "ukrbublik",
                 "repo": "react-awesome-query-builder",
-                "stars": 2259
+                "stars": 2258
               }
             },
             {
@@ -2787,7 +2787,7 @@
                     "last_commit": "2026-06-01T02:34:37Z",
                     "owner": "bigcalendar",
                     "repo": "react-big-calendar",
-                    "stars": 8745
+                    "stars": 8746
                   }
                 },
                 {
@@ -3264,7 +3264,7 @@
                     "last_commit": "2023-07-03T09:39:31Z",
                     "owner": "aaronshaf",
                     "repo": "react-toggle",
-                    "stars": 951
+                    "stars": 950
                   }
                 },
                 {
@@ -3442,7 +3442,7 @@
                     "last_commit": "2023-06-10T19:25:45Z",
                     "owner": "olahol",
                     "repo": "react-tagsinput",
-                    "stars": 1358
+                    "stars": 1357
                   }
                 },
                 {
@@ -3598,7 +3598,7 @@
                     "last_commit": "2025-07-06T10:22:50Z",
                     "owner": "react-dnd",
                     "repo": "react-dnd",
-                    "stars": 21637
+                    "stars": 21636
                   }
                 },
                 {
@@ -3643,7 +3643,7 @@
                     "last_commit": "2026-08-10T10:53:37Z",
                     "owner": "PuruVJ",
                     "repo": "neodrag",
-                    "stars": 2450
+                    "stars": 2449
                   }
                 },
                 {
@@ -3725,7 +3725,7 @@
                     "last_commit": "2026-03-24T22:02:22Z",
                     "owner": "SortableJS",
                     "repo": "Sortable",
-                    "stars": 31170
+                    "stars": 31172
                   }
                 },
                 {
@@ -3759,10 +3759,10 @@
                     "archived": false,
                     "id": 145464445,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T10:21:29Z",
+                    "last_commit": "2026-08-25T14:42:28Z",
                     "owner": "ueberdosis",
                     "repo": "tiptap",
-                    "stars": 38154
+                    "stars": 38160
                   }
                 },
                 {
@@ -3774,7 +3774,7 @@
                     "archived": false,
                     "id": 61412022,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T20:38:00Z",
+                    "last_commit": "2026-08-25T06:07:56Z",
                     "owner": "ianstormtaylor",
                     "repo": "slate",
                     "stars": 31747
@@ -3792,7 +3792,7 @@
                     "last_commit": "2023-02-06T15:35:05Z",
                     "owner": "facebookarchive",
                     "repo": "draft-js",
-                    "stars": 22599
+                    "stars": 22598
                   }
                 },
                 {
@@ -4069,7 +4069,7 @@
                     "last_commit": "2026-08-21T03:54:13Z",
                     "owner": "uiwjs",
                     "repo": "react-md-editor",
-                    "stars": 2916
+                    "stars": 2918
                   }
                 },
                 {
@@ -4121,7 +4121,7 @@
                     "last_commit": "2026-06-21T18:33:47Z",
                     "owner": "dominictobias",
                     "repo": "react-image-crop",
-                    "stars": 4104
+                    "stars": 4103
                   }
                 },
                 {
@@ -4136,7 +4136,7 @@
                     "last_commit": "2026-08-11T11:49:42Z",
                     "owner": "ValentinH",
                     "repo": "react-easy-crop",
-                    "stars": 2772
+                    "stars": 2771
                   }
                 },
                 {
@@ -4398,7 +4398,7 @@
             "last_commit": "2026-08-07T14:05:10Z",
             "owner": "react-grid-layout",
             "repo": "react-grid-layout",
-            "stars": 22397
+            "stars": 22398
           }
         },
         {
@@ -4533,7 +4533,7 @@
             "last_commit": "2026-07-01T04:06:54Z",
             "owner": "Jeshwin",
             "repo": "react-layman",
-            "stars": 13
+            "stars": 14
           }
         },
         {
@@ -4584,7 +4584,7 @@
             "last_commit": "2026-08-20T09:50:40Z",
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33350
+            "stars": 33355
           }
         },
         {
@@ -4599,7 +4599,7 @@
             "last_commit": "2026-08-19T19:12:20Z",
             "owner": "pmndrs",
             "repo": "react-spring",
-            "stars": 29136
+            "stars": 29137
           }
         },
         {
@@ -4901,7 +4901,7 @@
                 "last_commit": "2026-08-24T05:44:22Z",
                 "owner": "mkosir",
                 "repo": "react-parallax-tilt",
-                "stars": 1078
+                "stars": 1077
               }
             }
           ],
@@ -4926,10 +4926,10 @@
                 "archived": false,
                 "id": 585146387,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T19:23:00Z",
+                "last_commit": "2026-08-25T12:24:04Z",
                 "owner": "shadcn-ui",
                 "repo": "ui",
-                "stars": 122038
+                "stars": 122076
               }
             },
             {
@@ -4941,10 +4941,10 @@
                 "archived": false,
                 "id": 34526884,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T01:27:22Z",
+                "last_commit": "2026-08-25T11:59:25Z",
                 "owner": "ant-design",
                 "repo": "ant-design",
-                "stars": 99179
+                "stars": 99181
               }
             },
             {
@@ -4959,7 +4959,7 @@
                 "last_commit": "2026-08-24T17:07:26Z",
                 "owner": "chakra-ui",
                 "repo": "chakra-ui",
-                "stars": 40592
+                "stars": 40594
               }
             },
             {
@@ -4986,7 +4986,7 @@
                 "archived": false,
                 "id": 15480067,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T21:52:52Z",
+                "last_commit": "2026-08-25T13:16:18Z",
                 "owner": "react-bootstrap",
                 "repo": "react-bootstrap",
                 "stars": 22610
@@ -5001,10 +5001,10 @@
                 "archived": false,
                 "id": 60537144,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:08:14Z",
+                "last_commit": "2026-08-25T13:53:36Z",
                 "owner": "microsoft",
                 "repo": "fluentui",
-                "stars": 20227
+                "stars": 20224
               }
             },
             {
@@ -5049,7 +5049,7 @@
                 "last_commit": "2026-08-21T06:59:09Z",
                 "owner": "DouyinFE",
                 "repo": "semi-design",
-                "stars": 10308
+                "stars": 10311
               }
             },
             {
@@ -5061,7 +5061,7 @@
                 "archived": false,
                 "id": 84835535,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:40:12Z",
+                "last_commit": "2026-08-25T14:22:10Z",
                 "owner": "carbon-design-system",
                 "repo": "carbon",
                 "stars": 9385
@@ -5076,10 +5076,10 @@
                 "archived": false,
                 "id": 104133653,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:58:19Z",
+                "last_commit": "2026-08-25T15:08:52Z",
                 "owner": "ariakit",
                 "repo": "ariakit",
-                "stars": 8601
+                "stars": 8602
               }
             },
             {
@@ -5184,7 +5184,7 @@
                 "last_commit": "2026-08-20T07:52:29Z",
                 "owner": "kokonut-labs",
                 "repo": "kokonutui",
-                "stars": 2049
+                "stars": 2048
               }
             },
             {
@@ -5199,7 +5199,7 @@
                 "last_commit": "2026-08-24T14:42:14Z",
                 "owner": "untitleduico",
                 "repo": "react",
-                "stars": 1884
+                "stars": 1885
               }
             },
             {
@@ -5241,7 +5241,7 @@
                 "archived": false,
                 "id": 123009281,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T09:14:04Z",
+                "last_commit": "2026-08-25T09:04:14Z",
                 "owner": "coreui",
                 "repo": "coreui-react",
                 "stars": 714
@@ -5303,10 +5303,10 @@
                     "archived": false,
                     "id": 23083156,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T15:14:09Z",
+                    "last_commit": "2026-08-25T13:58:29Z",
                     "owner": "mui",
                     "repo": "material-ui",
-                    "stars": 98922
+                    "stars": 98920
                   }
                 },
                 {
@@ -5393,7 +5393,7 @@
                 "last_commit": "2026-08-05T03:22:38Z",
                 "owner": "ant-design",
                 "repo": "ant-design-mobile",
-                "stars": 12038
+                "stars": 12040
               }
             },
             {
@@ -5408,7 +5408,7 @@
                 "last_commit": "2026-06-17T03:34:27Z",
                 "owner": "OnsenUI",
                 "repo": "OnsenUI",
-                "stars": 8859
+                "stars": 8858
               }
             }
           ],
@@ -5430,7 +5430,7 @@
                 "last_commit": "2026-06-05T15:19:38Z",
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35567
+                "stars": 35570
               }
             },
             {
@@ -5445,7 +5445,7 @@
                 "last_commit": "2026-08-09T12:00:10Z",
                 "owner": "marmelab",
                 "repo": "react-admin",
-                "stars": 26912
+                "stars": 26913
               }
             },
             {
@@ -5460,7 +5460,7 @@
                 "last_commit": "2026-08-24T16:04:32Z",
                 "owner": "palantir",
                 "repo": "blueprint",
-                "stars": 22006
+                "stars": 22008
               }
             },
             {
@@ -6006,7 +6006,7 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509
+                "stars": 61508
               }
             },
             {
@@ -6021,7 +6021,7 @@
                 "last_commit": "2026-08-24T23:48:49Z",
                 "owner": "pmndrs",
                 "repo": "zustand",
-                "stars": 58605
+                "stars": 58608
               }
             },
             {
@@ -6048,7 +6048,7 @@
                 "archived": false,
                 "id": 75425073,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:00:32Z",
+                "last_commit": "2026-08-25T12:11:02Z",
                 "owner": "pubkey",
                 "repo": "rxdb",
                 "stars": 23364
@@ -6253,7 +6253,7 @@
                 "last_commit": "2026-08-25T02:40:03Z",
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
-                "stars": 44832
+                "stars": 44833
               }
             },
             {
@@ -6298,7 +6298,7 @@
                 "last_commit": "2025-06-21T01:46:14Z",
                 "owner": "alibaba",
                 "repo": "formily",
-                "stars": 12566
+                "stars": 12567
               }
             },
             {
@@ -6325,10 +6325,10 @@
                 "archived": false,
                 "id": 40705341,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T19:44:38Z",
+                "last_commit": "2026-08-25T13:42:00Z",
                 "owner": "surveyjs",
                 "repo": "survey-library",
-                "stars": 4850
+                "stars": 4853
               }
             },
             {
@@ -6422,10 +6422,10 @@
                 "archived": false,
                 "id": 19872456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:58:59Z",
+                "last_commit": "2026-08-25T14:34:07Z",
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56571
+                "stars": 56570
               }
             },
             {
@@ -6437,10 +6437,10 @@
                 "archived": false,
                 "id": 165670309,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:14:19Z",
+                "last_commit": "2026-08-25T12:57:42Z",
                 "owner": "TanStack",
                 "repo": "router",
-                "stars": 14985
+                "stars": 14987
               }
             },
             {
@@ -6586,10 +6586,10 @@
                 "archived": false,
                 "id": 207645083,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:18:54Z",
+                "last_commit": "2026-08-25T15:14:27Z",
                 "owner": "TanStack",
                 "repo": "query",
-                "stars": 50200
+                "stars": 50202
               }
             },
             {
@@ -6604,7 +6604,7 @@
                 "last_commit": "2026-08-23T23:59:53Z",
                 "owner": "apollographql",
                 "repo": "apollo-client",
-                "stars": 19810
+                "stars": 19811
               }
             },
             {
@@ -6887,7 +6887,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103281
+                "stars": 103279
               }
             },
             {
@@ -6902,7 +6902,7 @@
                 "last_commit": "2026-04-29T22:35:26Z",
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24252
+                "stars": 24253
               }
             },
             {
@@ -6962,7 +6962,7 @@
                 "last_commit": "2026-05-29T09:44:17Z",
                 "owner": "AlexSergey",
                 "repo": "rockpack",
-                "stars": 1162
+                "stars": 1147
               }
             },
             {
@@ -6974,7 +6974,7 @@
                 "archived": false,
                 "id": 662449966,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:43:46Z",
+                "last_commit": "2026-08-25T14:46:51Z",
                 "owner": "brocoders",
                 "repo": "extensive-react-boilerplate",
                 "stars": 511
@@ -7232,7 +7232,7 @@
             "archived": false,
             "id": 17810823,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:00:09Z",
+            "last_commit": "2026-08-25T07:03:09Z",
             "owner": "zpao",
             "repo": "qrcode.react",
             "stars": 4285
@@ -7280,7 +7280,7 @@
             "last_commit": "2026-08-10T23:14:44Z",
             "owner": "fernandopasik",
             "repo": "react-children-utilities",
-            "stars": 383
+            "stars": 382
           }
         },
         {
@@ -7342,7 +7342,7 @@
                 "last_commit": "2026-08-20T10:22:58Z",
                 "owner": "i18next",
                 "repo": "react-i18next",
-                "stars": 10038
+                "stars": 10039
               }
             },
             {
@@ -7357,7 +7357,7 @@
                 "last_commit": "2026-08-14T09:54:25Z",
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5855
+                "stars": 5856
               }
             },
             {
@@ -7436,10 +7436,10 @@
                 "archived": false,
                 "id": 41117523,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T04:28:44Z",
+                "last_commit": "2026-08-25T11:03:50Z",
                 "owner": "shakacode",
                 "repo": "react_on_rails",
-                "stars": 5190
+                "stars": 5191
               }
             },
             {
@@ -7454,7 +7454,7 @@
                 "last_commit": "2026-08-25T00:43:03Z",
                 "owner": "FirebaseExtended",
                 "repo": "reactfire",
-                "stars": 3571
+                "stars": 3570
               }
             },
             {
@@ -7686,7 +7686,7 @@
                 "last_commit": "2024-04-22T13:31:16Z",
                 "owner": "CSFrequency",
                 "repo": "react-firebase-hooks",
-                "stars": 3634
+                "stars": 3633
               }
             },
             {
@@ -8037,10 +8037,10 @@
                 "archived": false,
                 "id": 221981891,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T02:09:25Z",
+                "last_commit": "2026-08-25T07:26:57Z",
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 95082
+                "stars": 95108
               }
             },
             {
@@ -8052,10 +8052,10 @@
                 "archived": false,
                 "id": 15062869,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:13:21Z",
+                "last_commit": "2026-08-25T08:07:05Z",
                 "owner": "jestjs",
                 "repo": "jest",
-                "stars": 45473
+                "stars": 45474
               }
             },
             {
@@ -8149,7 +8149,7 @@
                 "archived": false,
                 "id": 38565895,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T04:32:38Z",
+                "last_commit": "2026-08-25T14:20:08Z",
                 "owner": "reduxjs",
                 "repo": "redux-devtools",
                 "stars": 14364
@@ -8610,7 +8610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:43:49.516Z",
+    "last_updated": "2026-08-25T15:28:26.190Z",
     "original_repository": "brillout/awesome-react-components",
     "original_repository_id": 61893399,
     "original_repository_sha": "66b2758c4808d62cfe7c2a1dc0c48f7d51153cf5",
